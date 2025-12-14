@@ -15,6 +15,10 @@
 - Checkout page with total price
 - Responsive UI using Tailwind CSS
 
+## Login Credential
+- Username: kminchelle
+- Password: 0lelplR
+
 ## How to Run Locally
 ```bash
 npm install
